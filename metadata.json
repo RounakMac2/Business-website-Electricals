@@ -1,0 +1,6 @@
+{
+  "name": "Gagan Electricals - Switchgear & Power Architecture",
+  "description": "Certified low-voltage switchboards, intelligent motor control centers, and grid-synchronization assemblies to IEC 61439-2 Form 4b standards with transparent tiered pricing and instant RFQ builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
